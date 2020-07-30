@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 results.txt
 ex.csv
 *.class
+=======
+<<<<<<< HEAD
+**/logs
+**/*.retry
+**/*.log
+**/*.text
+=======
+results.txt
+ex.csv
+*.class
+>>>>>>> gitingore file added
+>>>>>>> temp
